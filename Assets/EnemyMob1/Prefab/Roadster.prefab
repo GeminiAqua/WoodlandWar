@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4000010344319416}
   - component: {fileID: 95000010184179066}
   m_Layer: 0
-  m_Name: Low_Poly_Sportcar
+  m_Name: Roadster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -219,8 +219,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000011067054524}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -34.325497, y: -0.03, z: -11.46007}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children:
   - {fileID: 4000013539045944}
   - {fileID: 4000013341740002}
